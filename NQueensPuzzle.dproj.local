@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.556,=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.924,C:\Users\user\Desktop\EightQueensPuzzle\NQueensPuzzle.dproj=C:\Users\user\Desktop\EightQueensPuzzle\NQueensPuzzle.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\user\Desktop\EightQueensPuzzle\HelpForm.dfm=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,C:\Users\user\Desktop\EightQueensPuzzle\HelpForm.pas=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,C:\Users\user\Desktop\EightQueensPuzzle\HelpForm.pas=C:\Users\user\Desktop\EightQueensPuzzle\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,C:\Users\user\Desktop\EightQueensPuzzle\HelpForm.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
