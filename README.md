@@ -28,3 +28,7 @@ Placement № 3
 ---------------------------
 a-7,g-6,d-5,f-4,h-3,b-2,e-1
 ```
+_Пример расставления ферзей вручную(с подсказками):_
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/69767713/159341452-166eeea4-909c-4cae-a41d-87eab2c7dd0a.png">
+</p>
